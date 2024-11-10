@@ -1,13 +1,13 @@
 # Ignore certificate and key files
 *.crt
 *.key
-*Projects/.ovpn
-*Projects/.pem
+*Project/.ovpn
+*Project/.pem
 
 # Ignore Terraform state files
-Projects/Terraform/terraform.tfstate
-Projects/Terraform/terraform.tfstate.backup
+Project/Terraform/terraform.tfstate
+Project/Terraform/terraform.tfstate.backup
 
 # Ignore other sensitive configuration files
-terraform.tfvars
+Project/Terraform/terraform.tfvars
 
