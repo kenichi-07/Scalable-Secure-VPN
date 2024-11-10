@@ -13,7 +13,8 @@ This project sets up a secure and scalable VPN hosted on Azure using OpenVPN, wi
 
 ## Architecture Diagram
 
-Refer to the provided architecture diagram (attached as `architecture_diagram.png`), which illustrates the overall setup from the Azure resource group to the VPN virtual machine (VM).
+<img width="769" alt="image" src="https://github.com/user-attachments/assets/73622535-5d4d-485a-b292-d3c9a3178bd5">
+
 
 ## Prerequisites
 
